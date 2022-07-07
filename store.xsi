@@ -2,5 +2,6 @@
     "title": "Store Name",
     "icon": "/storeicon.png",
     "desc": "Eventual Description",
-    "type": "1"
+    "type": "1",
+    "files": "/apps.spl"
 }
