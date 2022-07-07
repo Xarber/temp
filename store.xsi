@@ -2,5 +2,6 @@
     "title": "Store Name",
     "icon": "/storeicon.png",
     "desc": "Eventual Description",
-    "type": "2"
+    "type": "2",
+    "files": "/link.sal"
 }
