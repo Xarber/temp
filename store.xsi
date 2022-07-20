@@ -3,5 +3,5 @@
     "icon": "/storeicon.png",
     "desc": "Eventual Description",
     "type": "2",
-    "files": "/link.sal"
+    "files": "link.sal"
 }
