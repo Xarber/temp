@@ -3,5 +3,5 @@
     "icon": "/storeicon.png",
     "desc": "Eventual Description",
     "type": "1",
-    "files": "/apps.spl"
+    "files": "apps.spl"
 }
